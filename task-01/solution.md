@@ -9,7 +9,6 @@
 4) touch - to create a new file in a repo.
  <br>
 5) rm : to remove a file or folder from a repo.
- <br>
 
 # git commands used in this task :
 
