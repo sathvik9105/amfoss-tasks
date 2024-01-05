@@ -2,11 +2,8 @@
 
 1) ls and ls -a : to list out all folders and files in a directory.
 2) cd - to change and access directories of a repo.
- <br>
 3) mkdir : to create a new directory.
- <br>
 4) touch - to create a new file in a repo.
- <br>
 5) rm : to remove a file or folder from a repo.
 
 # git commands used in this task :
