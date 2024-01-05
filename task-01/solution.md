@@ -1,4 +1,5 @@
 # I've used the following commands while doing this task :
+
 1) ls and ls -a : to list out all folders and files in a directory.
 <br>
 2) cd - to change and access directories of a repo.
@@ -11,6 +12,7 @@
 <br>
 
 # git commands used in this task :
+
 1) git clone : to clone or make a copy of git repo in local lamchine.
 <br>
 2) git add : to add changes to the code or add new files/folders.
