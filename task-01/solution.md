@@ -1,7 +1,6 @@
 # I've used the following commands while doing this task :
 
- 1) ls and ls -a : to list out all folders and files in a directory.
- <br>
+1) ls and ls -a : to list out all folders and files in a directory.
 2) cd - to change and access directories of a repo.
  <br>
 3) mkdir : to create a new directory.
