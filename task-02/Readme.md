@@ -1,2 +1,2 @@
-website link: http://localhost:1313/
+website link: http://localhost:1313
 hugo repository: 
