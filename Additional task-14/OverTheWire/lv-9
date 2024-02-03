@@ -1,5 +1,0 @@
-cmds used: sort -u data.txt ----> removes all the duplicate files 
-           sort data.txt | uniq -c ----> sort cmd groups up duplicate files and unique cmd checks if two simultaneous lines are same or not and -c cmd to count the occurance of strings in the file.
-
-password for Lv-9: EN632PlfYiZbn3PhVK3XOGSlNInNE00t
-
