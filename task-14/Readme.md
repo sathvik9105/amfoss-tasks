@@ -1,2 +1,2 @@
 - The Bandit task is also easy to do, few challenge levels were tricky and complicated and few were simply direct one line code for fetching the passwords.
-- For few levels I had to browse the internet so as to know the 
+- For few levels I had to browse the internet so as to know the syntax code for finding the passwords.
