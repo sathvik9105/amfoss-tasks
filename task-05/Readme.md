@@ -1,4 +1,4 @@
-imagine dragons website link: https://imaginedragons-website.netlify.app/
+Imagine dragons website link: https://imaginedragons-website.netlify.app/
 <hr>
 - This was a challenging task as I had to replicate a webpage using html and css.
 <br>
