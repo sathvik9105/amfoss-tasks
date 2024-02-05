@@ -24,8 +24,6 @@
 
 # Challenge-1: Enter the maze
 Clone the github repo and create "codes" directory
-
-- git clone https://github.com/KshitijThareja/TerminalWizard.git
-
-- cd TerminalWizard
-  mkdir codes
+git clone https://github.com/KshitijThareja/TerminalWizard.git
+cd TerminalWizard
+mkdir codes
