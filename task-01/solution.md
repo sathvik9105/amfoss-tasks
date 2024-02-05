@@ -177,4 +177,4 @@ Clone the repository and create "codes" directory
     ```
 
  # ScreenShot: 
- ![Victory] (https://github.com/sathvik9105/amfoss-tasks/blob/main/task-01/screenshot.md)
+ ![Victory] (https://github.com/sathvik9105/amfoss-tasks/blob/main/task-01/screenshot.png)
