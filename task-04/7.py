@@ -9,5 +9,4 @@ def main():
         result = count_differences(s)
         print(result)
 
-if __name__ == "__main__":
     main()
