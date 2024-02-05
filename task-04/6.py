@@ -11,5 +11,4 @@ def main():
     result = find_clems_town(n, travel_times)
     print(result)
 
-if __name__ == "__main__":
     main()
