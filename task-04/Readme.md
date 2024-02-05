@@ -1,6 +1,6 @@
-hacker rank profile: https://www.hackerrank.com/profile/sathvik9105
+HackerRank profile: https://www.hackerrank.com/profile/sathvik9105
 <br>
-hacker rank user name: sathvik9105
+HackerRank user name: sathvik9105
 <hr>
 
 - This task 'was and is' the most challenging task (still trying to solve remaining levels 😅). I'm familar with HackerRank platform and this has become a habit of picking up random questions from HackerRank and solving in python and java programming languages. However the Cp-Praveshan contest has a brilliant bunch of questions to do and it some what motivated me push my limits more towards competitive programming. It felt like solving real life problems.
