@@ -16,6 +16,6 @@ def main():
         board = [input().strip() for _ in range(3)]
         result = check_winner(board)
         print(result)
-if __name__ == "__main__":
+
     main()
 
