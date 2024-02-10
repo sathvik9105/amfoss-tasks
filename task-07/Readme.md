@@ -1,6 +1,6 @@
 # SkyScan - Reading between the clouds for you!
 
-![logo] (/images/logo.png)
+<img src="https://github.com/sathvik9105/amfoss-tasks/blob/main/task-07/images/logo.png?raw=true" alt="Logo" style="width: 250px;"/>
 
 ## What is SkyScan?
 
