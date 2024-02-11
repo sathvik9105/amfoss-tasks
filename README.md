@@ -23,4 +23,19 @@ I beleive in contributing back to the community which helped me grow and develop
 
 **Tasks List**|**Description**|**Status**
 --------------|---------------|---------------
-
+[task-00](https://github.com/sathvik9105/amfoss-tasks/tree/main/task-00)|Install Ubuntu|Completed!
+[task-01](https://github.com/sathvik9105/amfoss-tasks/tree/main/task-01)|Terminal Wizard|Completed!
+[task-02](https://github.com/sathvik9105/amfoss-tasks/tree/main/task-02)|Lessgo Hugo|Completed!
+[task-03](https://github.com/sathvik9105/amfoss-tasks/tree/main/task-03)|Hello, World!|Completed in 7 programming languages
+[task-04](https://github.com/sathvik9105/amfoss-tasks/tree/main/task-04)|Competitive Programming|Completed (5 challenges)
+[task-05](https://github.com/sathvik9105/amfoss-tasks/tree/main/task-05)|Hypertext Mockup Language|Completed!
+[task-06](https://github.com/sathvik9105/amfoss-tasks/tree/main/task-06)|Cricket Vault|Completed!
+[task-07](https://github.com/sathvik9105/amfoss-tasks/tree/main/task-07)|AK-47℃|Completed!
+task-08|Poke-Search!|Trying...
+task-09|GeoQuest|Not attempted
+task-10|RuskOS|Not attempted
+task-11|TinkerCAD|Not attempted
+task-12|Godot|Not attempted
+[task-13](https://github.com/sathvik9105/amfoss-tasks/tree/main/task-13)|Vim|Completed!
+[task-14](https://github.com/sathvik9105/amfoss-tasks/tree/main/task-14)|Bandit|Completed!
+[task-15](https://github.com/sathvik9105/amfoss-tasks/tree/main/task-15)|Project Euler|Completed!
