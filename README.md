@@ -12,7 +12,7 @@ In the month of october, I got a chance to attend Hacktober fest organized by th
 ### My goals for the upcoming months:
 - Full-Stack Web delvelopment
 - Java programming language
-- Contribute to organizations (getting started with good first issues
+- Contribute to organizations (getting started with good first issues)
 - Try for the mlh fellowship or fossasia open source programs (I actually like outreachy and strongly desire to get selected but I got to know that this program mostly favours women and the underprevileged)
 
 
