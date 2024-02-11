@@ -12,4 +12,6 @@
 4. Blog:
   - [Blog Post](https://github.com/sathvik9105/blog/blob/main/content/blogs/markdown-syntax.md)
 
-- I,m really thankful to amfoss club for making me create my first porstfolio site. I thoroughly enjoyed this task as it was fun in building the portfolio site. I've mentioned the process and steps that I foloowed in the blog post. All the links are mentioned above.
+
+
+### - I'm really thankful to amfoss club for making me create my first porstfolio site. I thoroughly enjoyed this task as it was fun in building the portfolio site using a hugo theme and hosting it in github pages. I've mentioned the process and steps that I followed in the blog post. All the links are mentioned above :)
