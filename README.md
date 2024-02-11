@@ -19,7 +19,7 @@ In the month of october, I got a chance to attend Hacktober fest organized by th
 ### How would I contribute back to FOSS club?
 I beleive in contributing back to the community which helped me grow and develop in life. I feel very happy and take pleasure to serve the club in which ever way it wants me to do so. I'd help the members in organizing events, take part in group discussions, work to my potential in doing the tasks given to me. I'd aslo want to represent amFOSS and try to bring good name in contests, hackathons, open source programs, etc under my capabilities and tech stacks. I'm good at networking and making connections with different kinds of people. It helps me personally and also gives me the opportunity to brand amFOSS. I will put in my 100% efforts and work to the best of my abilities to help and support the club and its members. I'd  help the club grow in terms of reputation and popularity as I feel I'm good at PR and marketing. I'd ensure that no property of the club would be damaged or misused in my presence and no wastage of time and money as well. I beleive in contributing back to the community-which helped me grow and develop in life as it feels satisfying and gives me immense pleasure in supporting/guiding/contributing back to the club.
 
-#### Sathvik Pasuvula  <br> S2 <br> CSE-A <br> Amrita School of Computing
+#### Sathvik Pasuvula  <br> S2 <br> CSE-A <br> Amrita School of Computing <hr>
 
 **Tasks List**|**Description**|**Status**
 --------------|---------------|---------------
