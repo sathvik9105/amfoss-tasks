@@ -1,8 +1,10 @@
 # amfoss-tasks
 
 ### Intro:
-Hello club members! I'm Sathvik Pasuvula, pursuing b.tech in Computer Science & Engineering (entering S2 of freshmen year) from Amrita Viswa Vidyapeetham. I hail from Hyderabad - the city of pearls. I come from a small family which include my father, mother and a younger brother. My hobbies are listing to pop music and watching late night series. I'm a tech geek and aspire to become a true ENGINEER. I feel technology can make human lives much more comfortable and easier. I looking forward to work with fusion of science-technology and I may get into research. I strongly beleive in practical, skill-based education and coincidentally my institution provides quality education based on 'Education for life'. Currently, my short term goal is to get selected for the amFOSS club. To get into the field of Open Source having right mentor is really important and fortunately I got to know that the amFOSS club has a good student-mentor culture. So for up-skilling my self and mentoring/guiding learners I want to join the club with serious goals and intensions.  
+Hello club members! I'm Sathvik Pasuvula, pursuing b.tech in Computer Science & Engineering (entering S2 of freshmen year) from Amrita Viswa Vidyapeetham. I hail from Hyderabad - the city of pearls. I come from a small family which include my father, mother and a younger brother. My hobbies are listing to pop music and watching late night series. I'm a tech geek and aspire to become a true ENGINEER. I feel technology can make human lives much more comfortable and easier. I looking forward to work with fusion of science-technology and I may get into research. I strongly beleive in practical, skill-based education and coincidentally my institution provides quality education based on 'Education for life'. Currently, my short term goal is to get selected for the amFOSS club. To get into the field of Open Source having right mentor is really important and fortunately I got to know that the amFOSS club has a good student-mentor culture. So for up-skilling my self and mentoring/guiding learners I want to join the club with serious goals and intensions. 
+
 - [Portfolio](https://sathvik9105.github.io/)
+- [LinkedIn](www.linkedin.com/in/sathvik-p-a3972328a)
 
 
 ### Why should I be chosen for this club?
