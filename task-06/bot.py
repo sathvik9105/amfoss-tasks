@@ -1,7 +1,7 @@
 import discord
 from scraper import get_cricket_data
 
-TOKEN = 'MTIwNTU1MzE2NjYwMzY1MzEyMA.GhahAN.VXr5N4OmoCQaRx6LrSa4uLMC1M3ZKzm4uiaqcI'
+TOKEN = 'MTIwNTU1MzE2NjYwMzY1MzEyMA.G0gSmh.8iZGszdmKzWxNoICNhiCfivvukyA-GSVcron_Q'
 
 # Define the intents for your bot
 intents = discord.Intents.all()
