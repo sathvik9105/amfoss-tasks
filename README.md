@@ -33,7 +33,7 @@ I beleive in contributing back to the community which helped me grow and develop
 [task-05](https://github.com/sathvik9105/amfoss-tasks/tree/main/task-05)|Hypertext Mockup Language|Completed!
 [task-06](https://github.com/sathvik9105/amfoss-tasks/tree/main/task-06)|Cricket Vault|Completed!
 [task-07](https://github.com/sathvik9105/amfoss-tasks/tree/main/task-07)|AK-47℃|Completed!
-task-08|Poke-Search!|Trying...
+[task-08](https://github.com/sathvik9105/amfoss-tasks/tree/main/task-08)|Poke-Search!|Completed!
 task-09|GeoQuest|Not attempted
 task-10|RuskOS|Not attempted
 task-11|TinkerCAD|Not attempted
